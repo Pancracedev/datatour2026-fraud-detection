@@ -1,0 +1,26 @@
+# Données lourdes (non versionnées)
+train.csv
+test.csv
+submission.csv
+sample_submission*.csv
+starter_notebook*.ipynb
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
