@@ -1,7 +1,6 @@
 # Données lourdes (non versionnées)
 train.csv
 test.csv
-submission.csv
 sample_submission*.csv
 starter_notebook*.ipynb
 
